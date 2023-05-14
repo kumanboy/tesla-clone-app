@@ -1,6 +1,6 @@
-Assalom Alaykum
+# Assalom Alaykum
 
-# tesla-clone-app
+tesla-clone-app
  App: Tesla Clone with React Native (Tutorial). notJust․dev
 
 Keling, yangi Expo loyihasini ishga tushirish orqali boshlaylik:
